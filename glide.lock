@@ -1,4 +1,8 @@
-hash: 797390af4aa5c13b3213ef949105b6cd489482ed68eed233e85bf398e7373fe4
-updated: 2016-09-19T12:20:32.458511812-04:00
-imports: []
+hash: 68b9c0322fb67a16be707a7dd153b9b275b31ebe1e1950c51f3e2d67f309ee37
+updated: 2016-09-19T12:22:45.405080481-04:00
+imports:
+- name: github.com/goadesign/goa
+  version: 4d8570645ab9fa6ad50cdbcef00ce5941ef78476
+  subpackages:
+  - '...'
 testImports: []
